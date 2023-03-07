@@ -1,6 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    background: linear-gradient(45deg, rgb(180, 54, 54), transparent);
+    background: linear-gradient(25deg, rgb(180, 54, 54), transparent);
 
 }
 
@@ -24,6 +24,11 @@ header {
     padding-bottom: 30px;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
 .principal {
     text-align: center;
 }
@@ -34,9 +39,14 @@ header {
     
 }
 
+.produto-principal {
+    font-size: 25px;
+}
+
 .principal p {
     text-align: center;
     margin: 0 0 1em;
+    
 }
 
 img {
@@ -56,6 +66,26 @@ nav li {
     margin: 0 0 0 35px;
     font-size: 24px;
     font-weight: bold;
+}
+
+.whatsapp-link {
+    position: fixed;
+    margin: 0 0 0 35px;
+    width: 80px;
+    height: 80px;
+    bottom: 40px;
+    right: 60px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 80px;
+    text-align: center;
+    font-size: 40px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+}
+
+.fa-whatsapp {
+    margin-top: 20px;
 }
 
 main {
@@ -150,9 +180,15 @@ main {
 
 .botao {
     text-decoration: none;
-    font-size: 12px;
+    font-size: 20px;
 }
 
+
+.cabecalho {
+    text-align: center;
+    padding: 40px 0;
+    color: #0e0101;
+}
 
 
 
