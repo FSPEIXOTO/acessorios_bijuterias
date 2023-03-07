@@ -1,10 +1,11 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(45deg, rgb(180, 54, 54), transparent);
 
 }
 
 header {
-    background: #BBBBBB;
+    background: #f3caca;
     padding: 10px 0;
     width: 100%;
 
@@ -58,17 +59,19 @@ nav li {
 }
 
 main {
-    width: 80%;
+    width: 90%;
     height: 75%;
+    padding-top: 40px;
+    text-align: center;
     
 }
 
 .produto1 {
     display: inline-block;
     text-align: center;
-    width: 30%;
+    width: 35%;
     vertical-align: top;
-    margin: 0 1.5%;
+    margin:  1.5%;
     box-sizing: border-box;
     border: 3px solid #000000;
     border-radius: 10px;
@@ -80,9 +83,9 @@ main {
 .produto2 {
     display: inline-block;
     text-align: center;
-    width: 30%;
+    width: 35%;
     vertical-align: top;
-    margin: 0 1.5%;
+    margin:  1.5%;
     box-sizing: border-box;
     border: 3px solid #000000;
     border-radius: 10px;
@@ -90,16 +93,18 @@ main {
  
 }
 
-.produto3 {
+.colar3 {
     display: inline-block;
     text-align: center;
-    width: 30%;
+    width: 35%;
+    height: 60%;
     vertical-align: top;
-    margin: 0 1.5%;
+    margin:  1.5%;
     box-sizing: border-box;
     border: 3px solid #000000;
     border-radius: 10px;
     padding-bottom: 20px;
+    font-size: 20px;
 
 }
 
@@ -107,32 +112,34 @@ main {
 .produto4 {
     display: inline-block;
     text-align: center;
-    width: 30%;
+    width: 35%;
     vertical-align: top;
-    margin: 0 1.5%;
+    margin:  1.5%;
     box-sizing: border-box;
     border: 3px solid #000000;
     border-radius: 10px;
     padding-bottom: 20px;
+    font-size: 20px;
 }
 
 .produto5 {
     display: inline-block;
     text-align: center;
-    width: 30%;
+    width: 35%;
     vertical-align: top;
-    margin: 0 1.5%;
+    margin:  1.5%;
     box-sizing: border-box;
     border: 3px solid #000000;
     border-radius: 10px;
     padding-bottom: 20px;
+
 
 }
 
 .produto6 {
     display: inline-block;
     text-align: center;
-    width: 30%;
+    width: 35%;
     vertical-align: top;
     margin: 10px 1.5%;
     box-sizing: border-box;
