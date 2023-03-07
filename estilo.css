@@ -61,6 +61,10 @@ nav li {
     padding-bottom: 25px;
 }
 
+img {
+    text-align: center;
+}
+
 .cabecalho {
     text-align: center;
     padding: 40px 0;
