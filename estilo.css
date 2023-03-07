@@ -1,12 +1,11 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    background: linear-gradient(25deg, rgb(168, 51, 51), transparent);
+    background: linear-gradient(35deg, rgb(235, 139, 214), transparent);
 }
 
 header {
     padding: 10px 0;
     width: 100%;
-    background-color: #c7eed7;
 
 
 }
