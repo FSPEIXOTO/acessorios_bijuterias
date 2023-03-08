@@ -9,8 +9,8 @@ body {
 .whatsapp-link {
     position: fixed;
     margin: 0 0 0 35px;
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     bottom: 40px;
     right: 60px;
     background-color: #25d366;
@@ -23,7 +23,7 @@ body {
 }
 
 .fa-whatsapp {
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 */ .botao {
